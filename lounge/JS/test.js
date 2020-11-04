@@ -1,0 +1,3 @@
+function Say(){
+  alert("hi");
+}
